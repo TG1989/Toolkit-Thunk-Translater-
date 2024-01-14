@@ -1,9 +1,15 @@
-# React + Vite
+# Translater+
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Translater+ is a simple translation web application built using React and Redux for state management. It allows users to translate text from one language to another using a variety of available languages.
 
-Currently, two official plugins are available:
+![translater+](https://github.com/TG1989/Toolkit-Thunk-Translater-/assets/115742987/a22a2898-38f3-4658-b511-84e6487cc6b6)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Toolkit-Thunk-Translater-
+
+## Features
+
+- Language selection: Choose source and target languages from a list of available options.
+- Swap languages: Easily swap the source and target languages with a click of a button.
+- Real-time translation: Translate text on-the-fly with a user-friendly interface.
+- Loading indicator: Provides visual feedback during the translation process.
+
+
